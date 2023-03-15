@@ -183,7 +183,7 @@ header{
 	border: none;
 	cursor: pointer;
 	top: 15px;
-	right: 0;
+	right: -20px;
 }
 
 .s_form button:focus{
